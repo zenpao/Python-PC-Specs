@@ -1,0 +1,7 @@
+psutil==7.0.0
+getmac==0.9.5
+WMI==1.5.1
+pycaw==20240210
+PyGetWindow==0.0.9
+py-cpuinfo==9.0.0
+GPUtil==1.4.0
