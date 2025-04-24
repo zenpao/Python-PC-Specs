@@ -1,0 +1,36 @@
+Computer Name: RICTU-MJ
+Manufacturer: ASUSTeK COMPUTER INC.
+Model: ASUS TUF Gaming A15 FA507NVR_FA507NVR
+Serial Number: S6NRCX01X774236
+Manufactured Year: 2024
+System Age (Years): 1
+OS: Windows
+OS Version: 10.0.26100
+Processor: N/A (N/A)
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+
+MAC Address: bb:2e:93:41:d5:21
+
+IPv4 Addresses:
+  - Ethernet: 169.254.4.183
+  - Local Area Connection* 1: 169.254.249.222
+  - Local Area Connection* 2: 169.254.88.133
+  - Wi-Fi: 192.168.0.98
+  - Loopback Pseudo-Interface 1: 127.0.0.1
+
+IPv6 Addresses:
+  - Ethernet: fe80::e213:6d7c:113b:163c
+  - Local Area Connection* 1: fe80::7ffe:619b:ca82:dbf1
+  - Local Area Connection* 2: fe80::9f0:bb7:28e9:602c
+  - Wi-Fi: fe80::4bde:8bce:c0db:59ea
+  - Loopback Pseudo-Interface 1: ::1
+
+RAM Info:
+  Total RAM: 15.82 GB
+  Available RAM: 9.18 GB
+  Used RAM: 6.64 GB
+  RAM Usage (%): 42.0%
+
+Network Usage:
+  Bytes Sent: 1.9 MB
+  Bytes Received: 5.25 MB
